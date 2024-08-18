@@ -1,0 +1,29 @@
+.orange{
+    width: 600px;
+    height: 100px;
+    background-color: orange;
+}
+
+.green{
+    width: 600px;
+    height: 100px;
+    background-color: green;
+}
+
+.white{
+    width: 600px;
+    height: 100px;
+    background-color: white;
+}
+
+div div div img{
+    margin-left: 250px;
+}
+
+.flag{
+    border: solid black;
+    height: 300px;
+    width: 600px;
+    margin-top: 300px;
+    margin-left: 650px;
+}
